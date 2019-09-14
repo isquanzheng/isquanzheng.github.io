@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quan Zheng</title>
-    <link>https://isquanzheng.github.io/authors/admin/</link>
-      <atom:link href="https://isquanzheng.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/admin/</link>
+      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Quan Zheng</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://isquanzheng.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Quan Zheng</title>
-      <link>https://isquanzheng.github.io/authors/admin/</link>
+      <link>/authors/admin/</link>
     </image>
     
   </channel>

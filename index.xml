@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quan Zheng</title>
-    <link>https://isquanzheng.github.io/</link>
-      <atom:link href="https://isquanzheng.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Quan Zheng</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://isquanzheng.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Quan Zheng</title>
-      <link>https://isquanzheng.github.io/</link>
+      <link>/</link>
     </image>
     
     <item>
@@ -22,25 +22,25 @@
     
     <item>
       <title>Posts</title>
-      <link>https://isquanzheng.github.io/post/</link>
+      <link>/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://isquanzheng.github.io/post/</guid>
+      <guid>/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://isquanzheng.github.io/publication/</link>
+      <link>/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://isquanzheng.github.io/publication/</guid>
+      <guid>/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://isquanzheng.github.io/talk/</link>
+      <link>/talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://isquanzheng.github.io/talk/</guid>
+      <guid>/talk/</guid>
       <description></description>
     </item>
     

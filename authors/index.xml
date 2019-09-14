@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Quan Zheng</title>
-    <link>https://isquanzheng.github.io/authors/</link>
-      <atom:link href="https://isquanzheng.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://isquanzheng.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://isquanzheng.github.io/authors/</link>
+      <link>/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://isquanzheng.github.io/authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://isquanzheng.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Quan Zheng is a first-year Ph.D. student at Central China Normal University. His research interests include cyberpsychology, cognitive psychology, and educational data mining.&lt;/p&gt;
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Quan Zheng is a Ph.D. student at Central China Normal University. His research interests include cyberpsychology, cognitive psychology, and educational data mining.&lt;/p&gt;
 </description>
     </item>
     
